@@ -1,0 +1,13 @@
+/.idea/
+/rabbitmqhello/target/
+/springboot-rabbitmq/.mvn/
+/netty/mvnw
+/netty/mvnw.cmd
+/netty/netty.iml
+/rabbitmq-hello/target/
+/*/HELP.md
+/springboot-rabbitmq/mvnw
+/springboot-rabbitmq/mvnw.cmd
+/*/*.iml
+/netty/.mvn/
+/springboot-rabbitmq/target/test-classes/com/record/springbootrabbitmq/
